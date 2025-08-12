@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: suelo
+    uniqueID: 594700375
+    locked: 0
+  - name: hill
+    uniqueID: 3296951019
+    locked: 0
+  - name: player
+    uniqueID: 1251175717
+    locked: 0
+  - name: gallina
+    uniqueID: 1695818251
+    locked: 0
+  m_RenderingLayers:
+  - Default
